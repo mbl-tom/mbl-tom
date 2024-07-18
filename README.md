@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbl-tom
+- 👋 Hi, I’m Tom (@mbl-tom) and I've been working with geospatial data for 14 years.
 - 👀 I’m interested in mapping, measuring and monitoring change in nature.
 - 🌱 I’m currently learning Python from the ground up.
 - 💞️ I’m looking to collaborate on LiDAR and Earth observation-based workflows.
